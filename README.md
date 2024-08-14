@@ -1,5 +1,9 @@
 ## Привет меня зовут Вадим 👋
 
+### 👨‍💻 Обо мне:
+
+Я инженер по тестированию программного обеспечения. Основной домен - тестирование веб-приложений.
+
 <!--
 **VadimPadalka/VadimPadalka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
