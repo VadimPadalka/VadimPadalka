@@ -1,3 +1,5 @@
+![Header](https://github.com/VadimPadalka/VadimPadalka/blob/main/assets/github-snake.svg)
+
 ## Привет меня зовут Вадим 👋
 
 ### 👨‍💻 Обо мне:
